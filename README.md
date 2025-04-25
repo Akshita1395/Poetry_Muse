@@ -17,8 +17,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it on GitHub Pages](https://yourusername.github.io/poetry-muse/)  
-*(Replace `yourusername` with your actual GitHub username)*
+👉 [Click here to try it on GitHub Pages](https://akshita1395.github.io/Poetry_Muse/)  
 
 ---
 
